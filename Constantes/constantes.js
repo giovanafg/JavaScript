@@ -5,4 +5,4 @@
   const nomeConstante = 10;
 
 //Executando no console
-console.log(nomeConstante);
+  console.log(nomeConstante);
